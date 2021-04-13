@@ -1,5 +1,6 @@
 <?php
     if(isset($_POST["submitBtn"])){
+        //$firstName = $_POST["firstName"];
         $firstName = sanitizeFormString($_POST["firstName"]); //sanitized version of the string
         echo $firstName;
         
