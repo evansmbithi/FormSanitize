@@ -1,5 +1,4 @@
-# FormSanitize
-/*
+# FormSanitize in PHP
 
     if(isset($_POST["submitBtn"])){
         //$firstName = $_POST["firstName"];
@@ -22,4 +21,3 @@
         $inputText = ucfirst($inputText);
         return $inputText;
     }
-*/
