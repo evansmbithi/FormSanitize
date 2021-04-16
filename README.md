@@ -1,5 +1,5 @@
 # FormSanitize
-
+/*
 <?php
     if(isset($_POST["submitBtn"])){
         //$firstName = $_POST["firstName"];
@@ -23,3 +23,4 @@
         return $inputText;
     }
 ?>
+*/
